@@ -1,0 +1,5 @@
+4
+(\neg (\wedge 1x (\vee 2y false)))
+(\rightarrow (\wedge 1a 2b) (\neg (\vee 3c (\leftrightarrow 4d 5e))))
+(\leftrightarrow (\neg 1z) (\vee true false))
+(\vee (\vee 1a 2b) (\wedge 3c (\neg 4d)))

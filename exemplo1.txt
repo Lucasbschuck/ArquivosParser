@@ -1,0 +1,6 @@
+5
+true
+1a
+(\neg false)
+(\wedge 1a (\neg 2b))
+(\rightarrow (\vee 3x 4z) (\leftrightarrow true (\neg 1a)))
