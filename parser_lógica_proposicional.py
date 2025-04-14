@@ -1,4 +1,3 @@
-from os import path
 #Henrique Zan Grande, João Gabriel Pitol, Lucas Braga Schuck, Rafael Vargas Serenato
 
 
