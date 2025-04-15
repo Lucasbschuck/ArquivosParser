@@ -27,7 +27,7 @@ Altere o modo para 'url' para usar exemplos vindos de links do GitHub e para 'lo
 1. Executar com arquivo local:
 
 modo = 'local'
-caminho_local = "C:\Users\SeuUsuario\Downloads\exemplo1.txt"
+caminho_local = "C:\\Users\\SeuUsuario\\Downloads\\exemplo1.txt"
 
 Atenção: use r"..." junto com a String do caminho do arquivo para evitar erros com as barras invertidas ou use \\ caso não use o r a frente.  
 
